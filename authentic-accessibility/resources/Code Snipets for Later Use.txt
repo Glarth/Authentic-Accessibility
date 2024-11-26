@@ -1,0 +1,44 @@
+Code Snipets for Later Use
+
+<a class="skipto-link" href="#main">Skip to main content</a>
+  <a class="skipto-link" href="#nav">Skip to navigation</a>
+
+
+
+header {
+    background-color: grey;
+    width: 100%;
+    z-index: 10;
+  }
+
+  nav {
+    margin: 0;
+    padding: 20px 10px;
+  }
+
+  nav li {
+    font-family: 'roboto', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    display: inline-block;
+    width: auto;
+    text-align: center;
+    padding: 0 30px;
+  }
+  
+main {
+  top: 100px;
+}
+
+main h1 {
+  font-size: 70px;
+}
+
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 5px 0;
+  position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
